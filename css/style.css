@@ -1,0 +1,16 @@
+.container-fluid {
+    background-color: #ffe366;
+}
+.container{
+    background-color: #cb6898;
+}
+.block{
+    background-color: #68c1cb;
+    padding: 20px;
+}
+.content{
+    background-color: #8e68cb;
+    height: 300px;
+    border-radius: 30px;
+    padding: 10px;
+}
